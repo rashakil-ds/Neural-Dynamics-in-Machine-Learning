@@ -1,1 +1,0 @@
-# Theory-of-Neural-Dynamics
